@@ -1,0 +1,87 @@
+{{define "content"}}
+
+<section id="career" class="hero-slider home-hero" data-carousel>
+    <div class="carousel-cell" style="background-image: url(../static/../static/../static/2022/img/careers/bg.jpg)">
+        <div class="slide-content">
+            <div class="hero-logo">
+                <a href="./">
+                    <img src="../static/../static/../static/2022/icons/logo-full.svg" alt="Luks Lofts Hotel Logo">
+                </a>
+            </div>
+
+            <div class="hero-headings">
+                <h1 class="hero-heading__title explore-btn">BE BEYOND LIMITS</h1>
+                <p class="luks-lead">Explore a world of endless possibilities with us.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="s-section section--careers">
+    <div class="careers">
+        <div class="careers__media">
+            <div class="swiper careersSlider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-01.png" alt=""></div>
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-02.png" alt=""></div>
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-03.png" alt=""></div>
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-04.png" alt=""></div>
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-05.png" alt=""></div>
+                    <div class="swiper-slide"><img src="../static/../static/../static/2022/img/careers/slide-06.png" alt=""></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="careers__text">
+            <div class="careers__card">
+                <h1 class="luks-heading">Explore a world of endless possibilities with us.</h1>
+
+                <p class="luks-lead">We are dynamic and creative in pursuit of passion.</p>
+
+                <div class="form-group inquiry-form">
+                    <div class="input-group">
+                        <label for="positions">Full Name</label>
+                        <select name="positions" id="positions" data-vacancies-container>
+
+                        </select>
+                    </div>
+                    <template data-vacancies-template>
+                        <option data-vacancies-name></option>
+                    </template>
+
+
+                    <div class="input-group">
+                        <label for="fullName">Full Name</label>
+                        <input class="form-control" type="text" id="fullName" name="fullName" placeholder="Full Name"
+                            required="required" data-error="Valid email is required.">
+                    </div>
+
+                    <div class="input-group">
+                        <label for="uploadResume">Upload your Resume</label>
+                        <input class="form-control" type="file" id="uploadResume" name="uploadResume"
+                            accept="application/msword, application/vnd.ms-excel, application/vnd.ms-powerpoint, text/plain, application/pdf, image/*"
+                            placeholder="Upload your Resume">
+                    </div>
+
+                    <div class="form-cta">
+                        <a id="contact-form-trigger" class="lukslofts-btn primary-btn raised-btn rounded-btn">Apply</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="lukslofts-contact">
+    <div class="row section-wrapper" data-aos="fade-up">
+        <div class="col-sm-12 contact-box">
+            <h3 class="contact-box-text">LET US BOOK YOUR UNFORGETTABLE STAY</h3>
+
+            <a href="contact.html" class="lukslofts-btn secondary-btn light-sec">Contact Us</a>
+        </div>
+    </div>
+</section>
+{{end}}
+
+{{define "script"}}
+{{end}}

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Check In/Out",
+        "icon": "log-in.svg",
+        "body": [
+            "Check in time: 2:00 PM (Local Time)  Late check in time: 6:00 PM (Local Time)",
+            "The pandemic changed the world. Plans were suddenly modified. In case you are arriving later than 6:00PM, kindly inform us so we can prepare for your stay accordingly. Otherwise, we will be constrained to consider your non-appearance as a cancellation of your reservation, thus, subject to cancellation fee.",
+            "Check out time: 12:00 NOON (Local Time). We do our best in accommodating late check outs. Please call our front desk. Charges thereto, however, apply."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Payment",
+        "icon": "credit-card.svg",
+        "body": [
+            "Full payment is required upon booking your loft. A refundable and consumable deposit of Php5,000 per night will be collected during check in.",
+            "Flexible payment plans are available for reservations made via Credit Card or Cash."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cancellation",
+        "icon": "slash.svg",
+        "body": [
+            "We understand that plans change unexpectedly. Thus, we allow free loft cancellations for refundable reservations, at least, 48 hours prior to your scheduled stay.",
+            "Any change of plans, thereafter, may result in cancellation charges."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Visitor Policy",
+        "icon": "user-plus.svg",
+        "body": [
+            "To maintain the luxury experience within our hotel, our lofts are strictly for 2 or 4 persons only, depending on the type of room reserved. Extra guests are not allowed and no mattress/bed will be provided."      
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pet Policy",
+        "icon": "pet.svg",
+        "body": [
+            "The lofts are not designed for pets. Though they may be part of your family, for the safety of your pets, we cannot allow them inside the hotel."      
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Responsibility On Your Valuables",
+        "icon": "package.svg",
+        "body": [
+            " As an extra measure of security, we placed a safety deposit box for your valuables in every loft. The hotel, however, will not be responsible for any loss or damage to items placed therein."      
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Guest's Responsibility On Damage",
+        "icon": "home.svg",
+        "body": [
+            " Our lofts are innovatively designed with you in mind. Please take care of it like your own home. Any damage caused in lofts, hotel premises, or to other guests, whether by accident or otherwise, is solely"      
+        ]
+    }						
+]
+
+
+
+							

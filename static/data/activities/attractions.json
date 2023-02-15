@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"name": "Basilica Menor de Immaculada Concepción",
+		"image": "01.png"
+	},
+	{
+		"id": 2,
+		"name": "Basilica de San Martin de Tours, Taal",
+		"image": "02.png"
+	},
+	{
+		"id": 3,
+		"name": "Montemaria International Pilgrimage and Conference Center",
+		"image": "03.png"
+	},
+	{
+		"id": 4,
+		"name": "Museo Puntong Batangan",
+		"image": "04.png"
+	},
+	{
+		"id": 5,
+		"name": "Galleria Taal",
+		"image": "05.png"
+	},
+	{
+		"id": 6,
+		"name": "Plaza Mabini",
+		"image": "06.png"
+	},
+	{
+		"id": 7,
+		"name": "The Old Grove Farmstead",
+		"image": "07.png"
+	},
+	{
+		"id": 8,
+		"name": "Cintai Coritos Garden",
+		"image": "08.png"
+	}
+]

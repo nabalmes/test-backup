@@ -1,0 +1,177 @@
+/*
+
+	Guide
+
+	# Noto Serif
+		## 400
+		## 700
+	# Noto Serif Display
+		## 100 - thin
+		## 200 - extralight
+		## 300 - light
+		## 400 - regular
+		## 500 - medium
+		## 600 - semibold
+		## 700 - bold
+		## 800 - extrabold
+		## 900 - black
+		
+*/
+
+/* Noto Serif */
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif/NotoSerif-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif/NotoSerif-Regular.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif/NotoSerif-BoldItalic.ttf') format('truetype');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif/NotoSerif-Italic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+
+/* # Noto Serif Display */
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-BlackItalic.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-ExtraBoldItalic.ttf') format('truetype');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('noto-serif-display/static/NotoSerifDisplay-BoldItalic.ttf') format('truetype');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-SemiBoldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-MediumItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-Italic.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-LightItalic.ttf') format('truetype');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-ExtraLightItalic.ttf') format('truetype');
+	font-weight: 200;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Noto Serif Display';
+	src: url('noto-serif-display/static/NotoSerifDisplay-ThinItalic.ttf') format('truetype');
+	font-weight: 100;
+	font-style: italic;
+}

@@ -1,0 +1,145 @@
+{{define "content"}}
+<section class="hero-slider home-hero" data-carousel>
+    <div class="carousel-cell" style="background-image: url({{.Home.BackgroundImage}})">
+    {{if eq .Home.BackgroundImage ""}}
+            <div class="carousel-cell" style="background-image: url(../static/2022/img/home-bg.jpg)">
+    {{end}}
+        <div class="slide-content">
+            <div class="hero-logo">
+                <a href="./">
+
+                    <img src="../static/2022/icons/logo-full.svg" alt="Luks Lofts Hotel Logo">
+                </a>
+            </div>
+            
+            <div class="hero-headings">
+                {{if ne .Home.Title ""}}
+                <h1 class="hero-heading__title">{{.Home.Title}}</h1>
+                {{else}}
+                <h1 class="hero-heading__title">LUXURY THROUGH TECHNOLOGY</h1>
+                 {{end}}
+
+                
+                {{if eq .Home.Description ""}}
+                <h3 class="hero-heading__subtitle">innovatively designed for you</h3>
+                {{else}}
+                <h3 class="hero-heading__subtitle">{{.Home.Description}}</h3>
+                 {{end}}
+                 
+                <a class="lukslofts-btn primary-btn rounded-btn explore-btn">Discover</a>
+
+                <!-- <h1 class="hero-heading__title"></h1> -->
+            </div>
+        </div>
+
+        <div class="hero-bottom-text">
+            
+            {{if eq .Home.Subtitle ""}}
+            <p>Hospitality. Technology. Unforgettable Stay.</p>
+            {{else}}
+            <p>{{.Home.Subtitle}}</p>
+             {{end}}
+        </div>
+    </div>
+</section>
+
+<section id="commitment" class="s-section section__commitment">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="commitment-grid">
+                <div class="commitment-grid__item">
+                    <picture class="commitment-grid__picture">
+                        <img src="../static/2022/img/commitment-01.png" alt="Luxury Hospitality Experience" class="commitment-grid__image">
+                    </picture>
+
+                    <div class="commitment-grid__caption">
+                        <h4 class="commitment-grid__caption-title">Committed to Providing Luxury Hospitality Experience</h4>
+
+                        <p class="commitment-grid__caption-text">Luks Lofts Hotel offers 10 innovative lofts, each with its own jet pool and sauna for a more private and inspiring luxury hospitality experience.</p>
+
+                        <p class="commitment-grid__caption-text">Our rooms are operated through a premise-based technology designed, developed, and controlled in-house.</p>
+                    </div>
+
+                    <a href="standard.html#commitment-01" class="lukslofts-btn secondary-btn">Learn More</a>
+                </div>
+
+                <div class="commitment-grid__item">
+                    <picture class="commitment-grid__picture">
+                        <img src="../static/2022/img/commitment-02.png" alt="Spa and Wellness" class="commitment-grid__image">
+                    </picture>
+
+                    <div class="commitment-grid__caption">
+                        <h4 class="commitment-grid__caption-title">Committed to Wellness</h4>
+
+                        <p class="commitment-grid__caption-text">We value the importance of private spaces and tranquility for a more relaxing and rejuvenating stay.</p>
+                    </div>
+
+                    <a href="standard.html#commitment-02" class="lukslofts-btn secondary-btn">Learn More</a>
+                </div>
+
+                <div class="commitment-grid__item">
+                    <picture class="commitment-grid__picture">
+                        <img src="../static/2022/img/commitment-03.png" alt="Spa and Wellness" class="commitment-grid__image">
+                    </picture>
+
+                    <div class="commitment-grid__caption">
+                        <h4 class="commitment-grid__caption-title">Committed to Sustainability</h4>
+
+                        <p class="commitment-grid__caption-text">We believe that we are responsible for future generations. We acknowledge our three pillars in promoting sustainability:</p>
+
+                        <p class="commitment-grid__caption-text">our technology, our partners, and our guests.</p>
+                    </div>
+
+                    <a href="standard.html#commitment-03" class="lukslofts-btn secondary-btn">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="s-section section__offers">
+    <div class="row section-wrapper">
+        <div class="col-sm-12">
+            <div class="offers-header">
+                <h3 class="offers-header__subheading">Take advantages of our</h3>
+                <h1 class="offers-header__heading">exclusive luxury offers</h1>
+                <p class="offers-header__lead">Share your #LuksLuxury moments</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="offers-grid">
+        <div class="offers-grid__item" data-sidenav="staycation">
+            <picture class="offers-grid__item-picture">
+                <a href="staycation.html"><img src="../static/2022/img/offers-01.png" alt="Woman in pool" class="offers-grid__item-image"></a>
+                
+                <div class="offers-grid__item-text">
+                    <h3 class="offers-grid__item-heading">Staycation</h3>
+                </div>
+            </picture>
+        </div>
+        
+        <div class="offers-grid__item" data-sidenav="bestrate">
+            <picture class="offers-grid__item-picture">
+                <a href="rates.html"><img src="../static/2022/img/offers-02.png" alt="Woman in pool" class="offers-grid__item-image"></a>
+
+                <div class="offers-grid__item-text">
+                    <h3 class="offers-grid__item-heading">Best Available Rates</h3>
+                </div>
+            </picture>
+        </div>
+    </div>
+</section>
+
+<section class="lukslofts-contact">
+    <div class="row section-wrapper" data-aos="fade-up">
+        <div class="col-sm-12 contact-box">
+            <h3 class="contact-box-text">LET US BOOK YOUR UNFORGETTABLE STAY</h3>
+
+            <a href="contact.html" class="lukslofts-btn secondary-btn light-sec">Contact Us</a>
+        </div>
+    </div>
+</section>
+{{end}}
+{{define "script"}}
+{{end}}

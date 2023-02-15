@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Anilao",
+        "description": "",
+        "image": "anilao.png"
+    },
+    {
+        "id": 2,
+        "name": "Lobo",
+        "description": "",
+        "image": "lobo.png"
+    },
+    {
+        "id": 3,
+        "name": "San Juan",
+        "description": "",
+        "image": "san-juan.png"
+    },
+    {
+        "id": 4,
+        "name": "Pico De Loro",
+        "description": "",
+        "image": "pico-de-loro.png"
+    }
+]

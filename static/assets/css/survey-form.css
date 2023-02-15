@@ -1,0 +1,242 @@
+
+	.image-banner_container {
+		height: 320px;
+		width: 100%;
+	}
+
+	.survey-form__container {
+        background: #4141414d;
+
+		width: 100%;
+
+		display: flex;
+        gap: 2.5rem;
+		flex-direction: column;
+		padding: 2rem 4rem;
+	}
+
+	.survey-form__wrapper {
+        background: #fff;
+
+		border-radius: 20px;
+		border: transparent;
+
+		width: 100%;
+		padding: 5rem 4rem;
+
+        display: flex;
+        gap: 3rem;
+        flex-direction: column;
+
+        color: #797979 !important;
+	}
+
+    .survey-form__wrapper label span {
+        color: red !important;
+    }
+
+    .header-container h1,
+    .header-container span {
+        color: #797979 !important;
+    }
+
+    .form-header__title {
+        font-weight: bolder;
+    }
+
+    .form-description {
+        font-weight: 600;
+    }
+
+    .form-title__header{
+        font-size: 18px !important;
+        font-weight: bolder !important;
+    }
+    
+    .email-input{
+        outline: gray !important;
+    }
+
+    .email-input::placeholder {
+        color: rgb(197, 4, 4);
+        font-weight: 600;
+    }
+
+    /* .age-checkbox__list-container.checkbox-list__container  {
+        width: 50% !important;
+    } */
+
+    .checkbox-list__container {
+
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-rows: repeat(2, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+    }
+
+
+    .checkbox-wrapper {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        grid-column-gap: 0px;
+        grid-row-gap: 10px;
+    }
+
+    .checkbox-list{
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+
+
+    .checkbox-list input{
+        visibility: visible !important;
+        position: relative !important; 
+        left: 0 !important;
+        width: auto !important;
+    }
+
+    .age-checkbox__list {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+    }
+
+    .age-checkbox__list input {
+        visibility: visible !important;
+        position: relative !important; 
+        left: 0 !important;
+        width: auto !important;
+    }
+
+    .yes-checkbox-list__container.checkbox-list__container{
+        width: 70%;
+    }
+
+    .form-buttons {
+        display: flex;
+        gap: 20px;
+    }
+
+    .form-button {
+        cursor: pointer;
+
+        background: #CC3533;
+        color: #fff;
+
+        font-weight: 400;
+
+       border-radius: 20px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+
+       padding: 10px 30px;
+       text-transform: uppercase;
+    }
+
+    .form-button:hover {
+        background: #eb423f;
+    }
+
+    .survey-container{
+        border-radius: 10px;
+
+        padding:2rem;
+
+        box-shadow: -1px 1px 6px 0px rgb(0 0 0 / 8%);
+        -webkit-box-shadow: -1px 1px 6px 0px rgb(0 0 0 / 8%);
+        -moz-box-shadow: -1px 1px 6px 0px rgb(0 0 0 / 8%);
+    }
+
+
+    /*Form modal*/
+
+    .form-modal__container {
+        opacity: 0;
+        z-index: 0;
+        pointer-events: none;
+
+        position: absolute;
+
+        height: 100%;
+        width: 100%;
+    }
+
+    .form-modal__container.active {
+        opacity: 1;
+        z-index: 99;
+        pointer-events: all;
+
+        transition: all 500ms ease-in-out;
+    }
+
+    .form-modal__wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        height: 100%;
+        
+        background: #0000006e;
+    }
+
+    .form-modal {
+        position: relative;
+
+        padding: 4rem 2rem;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        background-color: #fff;
+        color: black;
+
+        border-radius:  10px;
+        border: 1px solid grey;
+
+    }
+
+    .form-modal .form-close__modal {
+        position: absolute;
+        top: 10px;
+        right: 5px;
+
+        cursor: pointer;
+    }
+
+    .image-banner__container img {
+        width: 100%;
+    }
+
+
+
+
+@media only screen and (max-width: 576px){
+    .survey-form__container {
+        padding: 1rem 1rem;
+    }
+
+    .survey-form__wrapper {
+        padding: 1rem 1rem;
+    }
+
+    .checkbox-list {
+        gap: 10px;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .checkbox-wrapper {
+        grid-row-gap: 14px;
+    }
+
+    .checkbox-list__container {
+        grid-row-gap: 10px;
+    }
+
+    .form-title__header{
+        margin-bottom: 1rem;
+    }
+}

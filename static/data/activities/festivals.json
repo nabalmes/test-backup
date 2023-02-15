@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Sublian",
+        "date": "May 2nd",
+        "description": "Sublian Festival is a two-week event that starts on the 2nd of May. It's a celebration of the town's devotion to the Holy Cross in Bauan and Agoncillo, as well as the Sto. Nino icon in Batangas City. The date of the festival coincides with the city's founding anniversary. The celebration features Subli, a dance number performed together with drums and chanting. The ceremonial worship dance includes prayers and songs. It also includes traditional Filipino games, serenades or harana, and the Lupakan. The Lupakan is an event that showcases how to make nilupak along with folk songs and dances.",
+        "iconsrc": "sublian.svg",
+        "image": "image1.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 2,
+        "name": "Balsa",
+        "date": "May 18th",
+        "description": "Balsa or bamboo rafts are the star of the show during the festival. Every May 18 there is a balsa competition where experienced townsfolk of Matabungkay decorate their balsa. The rafts are made of long and slender mature bamboo tubes. These tubes are tied using thick ropes and hammered to ensure the pieces stick together. Besides the decorated bamboo rafts, there are also simple rafts used for races.",
+        "iconsrc": "balsa.svg",
+        "image": "image2.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 3,
+        "name": "Tapusan",
+        "date": "May 31st",
+        "description": "The last day of May includes a flower offering activity at the foot of the Holy Cross, the oldest holy symbol of the town. The flowers are placed during the afternoon ceremonies of the town's church. A procession follows, wherein the cross is mounted on a decorated float. The day-long procession parades several floats carrying various Marian images pulled by a rope.",
+        "iconsrc": "tapusan.svg",
+        "image": "image3.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 4,
+        "name": "Maliputo",
+        "date": "August 9th",
+        "description": "Maliputo is a freshwater fish that contributes to the fish industry of San Nicolas. The festival held every 9th of August is a way to promote Maliputo as a source of income for the locals. There are street dances during the parade as well as cooking competitions focusing on the different ways to cook the fish. The cooking competition allows the participants to show off their culinary skills by making new and exciting Maliputo dishes.",
+        "iconsrc": "maliputo.svg",
+        "image": "image4.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 5,
+        "name": "Kambingan",
+        "date": "August 12th",
+        "description": "Roasted goats in costume and props make up the Kambingan Festival. The Lechon Kambing, a significant product of the town of Tuy, is the main event during the 12th of August. During the festival, each household is seen with goats in their grassy yards. In addition to the live and roasted goats, the festival features other goat dishes.",
+        "iconsrc": "kambingan.svg",
+        "image": "image5.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 6,
+        "name": "Sigpawan",
+        "date": "August 15th",
+        "description": "The festival promotes Lemery's industry and delicacies. The town continues to thrive with the help of sigpaw, a small net with a handle used by fishermen. It can be used to scoop fish as well as tiny shrimps while farmers use it to pick fruits from trees. Sigpawan Festival is celebrated every 15th of August. It begins with a mass at the town's parish church followed by a colorful parade.",
+        "iconsrc": "sigpawan.svg",
+        "image": "image6.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 7,
+        "name": "Bankaton",
+        "date": "September 10th",
+        "description": "Every September 10, the town of San Nicolas honors its patron saint, San Nicolas de Tolentino. The celebration includes a parade, a boat race among skilled boat rowers, and a singing competition. There are also parlor games related to Tilapia or Milkfish.",
+        "iconsrc": "bankaton.svg",
+        "image": "image7.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 8,
+        "name": "Anihan",
+        "date": "September 27th",
+        "description": "Batangas being a place abundant in agricultural produce, the town of Lobo shows their appreciation by celebrating fruits, root crops, and other commodities every 27th of September. The town is known for being the “Atis Capital of the Philippines” so expect the fruit as the main feature in the festival. Anihan Festival is also a way to showcase the town's harvest. Each barangay features their products in a trade fair. Moreover, there's a street dancing competition where costume and choreography depend on the chosen product.",
+        "iconsrc": "anihan.svg",
+        "image": "image8.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 9,
+        "name": "Calacatchara",
+        "date": "October",
+        "description": "One of the most lively festivals of the province, Calacatchara Festival features the town of Calaca's famous product, atchara (chutney), and patron saint St. Raphael the Archangel. The week-long festivities start with a procession every October. Students from various schools in town prepare for their street performances. The festival organizers also include other activities for entertainment such as beauty contests, car shows, fun run, and photo exhibit.",
+        "iconsrc": "calacatchara.svg",
+        "image": "image9.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    },
+    {
+        "id": 10,
+        "name": "Alaeh",
+        "date": "October",
+        "description": "A true-blue Batangueno will say “ala eh!” once in a while, an expression very much associated with these people of the south. Thus, the province invites the whole country to witness the celebration of its founding anniversary. Ala Eh Festival was established to attract tourists to Batangas.",
+        "iconsrc": "alaeh.svg",
+        "image": "image10.png",
+        "credits": "Pueblo De Oro Blog",
+        "credits_url": "https://pueblodeoro.com/blog/10-cultural-festivities-of-batangas/?c=1"
+    }
+]

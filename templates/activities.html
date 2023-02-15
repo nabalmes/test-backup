@@ -1,0 +1,187 @@
+{{define "content"}}
+
+<section id="activities" class="hero-slider home-hero" data-carousel>
+    <div class="carousel-cell" style="background-image: url(../static/../static/2022/img/activities/bg.jpg)">
+        <div class="slide-content">
+            <div class="hero-logo">
+                <a href="./">
+                    <img src="../static/../static/2022/icons/logo-full.svg" alt="Luks Lofts Hotel Logo">
+                </a>
+            </div>
+
+            <div class="hero-headings">
+                <h1 class="hero-heading__title explore-btn">Area & Activities</h1>
+            </div>
+        </div>
+
+        <div hidden class="hero-bottom-text">
+            <p>Diving soon.</p>
+        </div>
+    </div>
+</section>
+
+<section class="s-section section--activities">
+    <div class="activities-content">
+        <div class="activities-content--00"></div>
+
+        <div class="activities-content--01">
+            <h1 class="luks-heading">
+                <a href="location.html" tooltip="Our Location" flow="right">
+                    <svg width="32" height="46" viewBox="0 0 32 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M16.0337 10.7264C12.7586 10.7264 10.0977 13.4081 10.0977 16.7085C10.0977 20.009 12.7586 22.6906 16.0337 22.6906C19.3087 22.6906 21.9697 20.009 21.9697 16.7085C21.9015 13.4081 19.2405 10.7264 16.0337 10.7264Z"
+                            fill="#797979" />
+                        <path
+                            d="M16.5117 0C16.1706 0 15.8294 0 15.42 0C10.0981 0.343797 0 4.12556 0 15.9522C0 30.5291 14.6695 45.0374 15.2836 45.6562C15.4883 45.8625 15.7612 45.9312 16.0341 45.9312C16.307 45.9312 16.58 45.7937 16.7164 45.6562C17.3305 45.0374 32 30.5291 32 15.9522C32 1.16891 17.1258 0.0687593 16.5117 0ZM16.0341 24.6846C11.6674 24.6846 8.05117 21.1091 8.05117 16.6398C8.05117 12.2392 11.5991 8.59492 16.0341 8.59492C20.4691 8.59492 24.0171 12.1704 24.0171 16.6398C23.9488 21.1091 20.4009 24.6846 16.0341 24.6846Z"
+                            fill="#797979" />
+                    </svg>
+                </a>
+
+                <span>Enjoy an unforgettable stay in Batangas!</span>
+            </h1>
+            <div class="luks-hush">
+                <span>#Lukspots</span>
+                <span>#LuksActivities</span>
+                <span>#ExperienceBatangas</span>
+            </div>
+
+
+            <!-- <p class="luks-lead">Batangas is located southwestern of Luzon in the Philippines. It has 31
+                municipalities and three cities. The Provinces of Laguna, Cavite, Quezon and Mindoro are its
+                nearby neighbors. Most of the towns are surrounded with water, thus it is famous for its
+                beaches, marine life, and flora. </p>
+
+            <p class="luks-lead">There are many things to see about the historical background of the province.
+                Drop by the towns of Taal, Mabini, Lipa City and Batangas City, to see the basilicas and Old
+                Spanish houses. And see architecture during the Pre Spanish Times.</p>
+
+            <p class="luks-lead">Relax and have fun in any beach resorts of your choice. There are lots of
+                hotels around to choose from. Depending on your excitement or pleasure.</p> -->
+        </div>
+
+        <div class="activities-content--02">
+            <div class="explore-display">Explore</div>
+        </div>
+
+        <div class="activities-content--03 openFestivals" tooltip="View Festivals" flow="up">
+            <img src="../static/../static/2022/img/activities/activities-01.png" alt="Festival" class="fest-tilt">
+        </div>
+
+        <div class="activities-content--04 openAttractions" tooltip="See Attractions" flow="up">
+            <img src="../static/../static/2022/img/activities/activities-02.png" alt="Church" class="fest-tilt">
+        </div>
+
+        <div class="activities-content--05 openBeaches" tooltip="Discover Beaches" flow="up">
+            <img src="../static/../static/2022/img/activities/activities-03.png" alt="Beach" class="fest-tilt">
+        </div>
+        <!-- 
+        <div class="activities-content--06">
+            <p class="luks-lead">Consider the adventures and sight in store. Explore the exciting way of life.
+                Take in consideration it is a few hours drive from the Manila Airport. So if you're gun-bound
+                Philippines!</p>
+
+            <h5 class="luks-subheading">Take a trip to Batangas. Have fun in Batangas Philippines.</h5>
+        </div> -->
+
+        <div class="activities-content--07"></div>
+        <div class="activities-content--071"></div>
+        <div class="activities-content--08"></div>
+    </div>
+
+</section>
+
+<section class="lukslofts-contact">
+    <div class="row section-wrapper" data-aos="fade-up">
+        <div class="col-sm-12 contact-box">
+            <h3 class="contact-box-text">LET US BOOK YOUR UNFORGETTABLE STAY</h3>
+
+            <a href="contact.html" class="lukslofts-btn secondary-btn light-sec">Contact Us</a>
+        </div>
+    </div>
+</section>
+
+<div id="festivalsSidenav" class="sidenav sidenav--right activities-sidenav">
+    <div class="sidenav-inner">
+        <a class="lukslofts-btn secondary-btn close-sidenav">Back</a>
+
+        <div class="facilities-content__header">
+            <h1 class="luks-heading">Festivals</h1>
+        </div>
+
+        <div class="swiper festivalSwiper">
+            <div class="swiper-wrapper" data-festival-container></div>
+
+            <template data-festival-template>
+                <div class="swiper-slide">
+                    <img src="" alt="" data-festival-image>
+                    <h3 class="festival-heading luks-subheading" data-festival-name></h3>
+                    <p class="festival-date__style" data-festival-date></p>
+                </div>
+            </template>
+
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <div class="loft-content__text-cta cta-center">
+            <a href="mailto:sales@lukslofts.com" target="_blank" title="sales@lukslofts.com"
+                class="lukslofts-btn primary-btn rounded-btn">Inquire Now</a>
+        </div>
+    </div>
+</div>
+
+<div id="attractionsSidenav" class="sidenav sidenav--right activities-sidenav">
+    <div class="sidenav-inner">
+        <a class="lukslofts-btn secondary-btn close-sidenav">Back</a>
+
+        <div class="facilities-content__header">
+            <h1 class="luks-heading">Urban Attractions</h1>
+        </div>
+
+        <div class="swiper attractionSwiper">
+            <div class="swiper-wrapper" data-attraction-container></div>
+
+            <template data-attraction-template>
+                <div class="swiper-slide">
+                    <img src="" alt="" data-attraction-image>
+                    <h3 class="luks-subheading" data-attraction-name></h3>
+                </div>
+            </template>
+
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <div class="loft-content__text-cta cta-center">
+            <a href="mailto:sales@lukslofts.com" target="_blank" title="sales@lukslofts.com"
+                class="lukslofts-btn primary-btn rounded-btn">Inquire Now</a>
+        </div>
+    </div>
+</div>
+
+<div id="beachesSidenav" class="sidenav sidenav--right activities-sidenav">
+    <div class="sidenav-inner">
+        <a class="lukslofts-btn secondary-btn close-sidenav">Back</a>
+
+        <div class="facilities-content__header">
+            <h1 class="luks-heading">Beaches & Diving</h1>
+        </div>
+
+        <div class="swiper beachSwiper">
+            <div class="swiper-wrapper" data-beach-container></div>
+
+            <template data-beach-template>
+                <div class="swiper-slide">
+                    <img src="" alt="" data-beach-image>
+                    <h3 class="luks-subheading" data-beach-name></h3>
+                </div>
+            </template>
+
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <div class="loft-content__text-cta cta-center">
+            <a href="mailto:sales@lukslofts.com" target="_blank" title="sales@lukslofts.com"
+                class="lukslofts-btn primary-btn rounded-btn">Inquire Now</a>
+        </div>
+    </div>
+</div>
+{{end}}

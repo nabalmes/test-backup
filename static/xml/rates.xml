@@ -1,0 +1,1719 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<properties type="array">
+  <property>
+    <name>Luks Lofts Hotel &amp; Residences</name>
+    <rate-plans type="array">
+      <rate-plan>
+        <id type="integer">73783</id>
+        <name>Luxury Loft Package 1</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">19800</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">22000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">73784</id>
+        <name>Luxury Loft Package 2</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">21600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">24000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">73785</id>
+        <name>Honeymoon Loft Package 1</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">23400</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">26000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">73786</id>
+        <name>Honeymoon Loft Package 2</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">28000</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">1</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">74053</id>
+        <name>2D1N Honeymoon Package</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">22680</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">1</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">74064</id>
+        <name>4D3N Honeymoon Package</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">22680</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">3</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">6</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">74083</id>
+        <name>3D2N Honeymoon Package</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">22680</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">25200</rate>
+            <min-stay type="integer">2</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay type="integer">2</max-stay>
+            <available type="integer">1</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">85560</id>
+        <name>Luxury Loft Package for 2 pax</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">15840</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">17600</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">85561</id>
+        <name>Luxury Loft Package for 4 pax</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">20880</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">23200</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+      <rate-plan>
+        <id type="integer">87691</id>
+        <name>Luxury Loft Package for 3 pax</name>
+        <rate-plan-dates type="array">
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-04</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-05</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-06</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-07</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-08</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-09</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-10</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-11</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-12</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-13</date>
+            <rate type="integer">20655</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-14</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-15</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-16</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-17</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">9</available>
+          </rate-plan-date>
+          <rate-plan-date>
+            <id nil="true"/>
+            <date type="date">2018-05-18</date>
+            <rate type="integer">22950</rate>
+            <min-stay type="integer">1</min-stay>
+            <stop-online-sell type="boolean">false</stop-online-sell>
+            <close-to-arrival type="boolean">false</close-to-arrival>
+            <close-to-departure type="boolean">false</close-to-departure>
+            <max-stay nil="true"/>
+            <available type="integer">8</available>
+          </rate-plan-date>
+        </rate-plan-dates>
+      </rate-plan>
+    </rate-plans>
+  </property>
+</properties>

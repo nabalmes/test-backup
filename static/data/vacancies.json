@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "role": "Web Developer",
+        "branch": "IntegraNet"
+    },
+    {
+        "id": 2,
+        "role": "Account Officer",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 3,
+        "role": "Network Engineer",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 4,
+        "role": "Marketing Staff",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 5,
+        "role": "Installers",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 6,
+        "role": "Junior I.T",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 7,
+        "role": "Admin Staff",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 8,
+        "role": "Warehouse Staff",
+        "branch": "IntegraNet",
+        "active": true
+    },
+    {
+        "id": 9,
+        "role": "Room Attendant",
+        "branch": "Lukslofts",
+        "active": true
+    },
+    {
+        "id": 10,
+        "role": "Pastry Head Chef",
+        "branch": "Lukslofts",
+        "active": true
+    },
+    {
+        "id": 11,
+        "role": "Paralegal Assistant",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 12,
+        "role": "HR Manager / Staff",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 13,
+        "role": "Assistant Book keeper",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 14,
+        "role": "Security Guard",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 15,
+        "role": "Utility Personnel",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 16,
+        "role": "Telemarketer",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 17,
+        "role": "Videographer",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 18,
+        "role": "Content Writer",
+        "branch": "IntegrityNet",
+        "active": true
+    },
+    {
+        "id": 19,
+        "role": "Social Media Specialist",
+        "branch": "IntegrityNet",
+        "active": true
+    }
+]

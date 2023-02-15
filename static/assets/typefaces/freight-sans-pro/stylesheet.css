@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Black.otf") format("opentype");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Bold.otf") format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Semibold.otf") format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Medium.otf") format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Book.otf") format("opentype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Light.otf") format("opentype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Black\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Bold\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Semibold\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Medium\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Book\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FreightSansPro';
+    src: url("FreightSans\ Pro\ Light\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 300;
+}

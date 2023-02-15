@@ -1,0 +1,45 @@
+:root {
+    --font-display: 'Noto Serif Display', serif;
+    --font-main: 'Lemon Milk', sans-serif;
+    --font-sans: 'Century Gothic', sans-serif;
+    --font-serif: 'Noto Serif', serif;
+    --font-cursive: 'Tangerine', cursive;
+
+    --font-hightech: 'Nulshock', sans-serif;
+
+    --primary-red: #CC3533;
+    --primary-red-light: #F05151;
+    --primary-dark: #0f0d0e;
+    --primary-light: #FFFFFF;
+    --primary-grey-dark: #333333;
+    --primary-grey-light: #f8f9f7;
+    --primary-grey: #797979;
+
+    --secondary-red: #A31A1A;
+    --secondary-red-light: #f8dcdc;
+    --secondary-dark: #181818;
+    --secondary-light: #f1f1ee;
+    --secondary-grey: #a0a0a0;
+    --secondary-gold: #EEBB60;
+
+    --color-danger: #F94F51;
+    --color-warning: #FEAF46;
+    --color-info: #00C1E0;
+    --color-success: #02B854;
+
+    --color-gold: #FBBB3F;
+    --color-silver: #777e84;
+
+    --media-xxs: 320px;
+    --media-xs: 576px;
+    --media-sm: 768px;
+    --media-md: 992px;
+    --media-lg: 1200px;
+    --media-xl: 1400px;
+
+    --shadows-small: 0 5px 10px rgba(0, 0, 0, 0.12);
+    --shadows-medium: 0 8px 30px rgba(0, 0, 0, 0.12);
+    --shadows-large: 0 30px 60px rgba(0, 0, 0, 0.12);
+    
+    --blur: 8px;
+}

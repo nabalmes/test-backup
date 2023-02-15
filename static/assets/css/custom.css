@@ -1,0 +1,485 @@
+/*
+======================================================================
+
+    Luks Lofts Hotel 2019 Custom Stylesheet
+    07-01-2019
+
+    (c) IntegrityNet Software Development Team 2019
+
+    --------------------------------------------------
+
+    TOC:
+    #
+
+======================================================================
+*/
+
+/* Global */
+.hero-wrapper {
+    margin-top: 5rem;
+    padding: auto 3rem;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.hero-logo {
+    text-align: center;
+}
+
+.content-wrapper {
+    margin: 5rem 0;
+}
+
+.content-header h5 {
+    font-family: var(--font-sans) !important;
+}
+
+.content-header h1 {
+    font-family: var(--font-main) !important;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.slide-nav-box {
+    float: right;
+    margin: 1rem 0;
+}
+
+.slide-nav-box div {
+    display: inline-block !important;
+}
+
+.slide-nav {
+    cursor: pointer;
+}
+
+/* Home */
+.home-hero-text-wrapper {
+    padding: 0px;
+    margin: 0px;
+    z-index: 24;
+}
+
+.home-hero-text-content {
+    margin-top: 30% !important;
+    text-align: right !important;
+    width: 120% !important;
+}
+
+.home-hero-quotation a {
+    text-decoration: none;
+    color: #fff !important;
+    font-weight: normal;
+}
+
+.home-hero-slogan img {
+    margin-left: 10%;
+}
+
+.full-screen {
+    padding: 0px;
+    margin: 0px;
+    background: transparent;
+    min-height: 400px;
+}
+
+#home-events-section {
+    margin: 3rem;
+}
+
+.home-events-header {
+    text-align: center
+}
+
+.home-events-header h5 {
+    font-family: var(--font-sans) !important;
+    font-weight: 400;
+    color: var(--primary-grey-dark);
+    text-transform: uppercase;
+}
+
+.home-events-header h1 {
+    font-family: var(--font-main) !important;
+    color: var(--primary-red) !important;
+    font-size: 3rem;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.home-events-cards {
+    margin: 2rem;
+}
+
+.home-events-cards .event-card {
+    border: 1px solid #333;
+}
+
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.event-list-item {
+    display: flex;
+    padding: 0.5em;
+    width: 100%;
+}
+
+@media all and (min-width: 40em) {
+    .event-list-item {
+        width: 50%;
+    }
+}
+
+@media all and (min-width: 60em) {
+    .event-list-item {
+        width: 33.33%;
+    }
+}
+
+.event-list-content {
+    background-color: #FAFAFA;
+    border: 1px solid #EEE;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.05);
+    transition: box-shadow .3s ease-out,
+        transform .3s ease-out,
+        opacity .2s ease-out;
+    transition-delay: .1s;
+    border-radius: 4px;
+}
+
+.event-list-content:hover {
+    box-shadow: rgba(45, 45, 45, 0.03) 0 2px 2px, rgba(49, 49, 49, 0.03) 0 4px 4px, rgba(42, 42, 42, 0.03) 0 8px 8px, rgba(32, 32, 32, 0.03) 0 16px 16px, rgba(49, 49, 49, 0.03) 0 32px 32px, rgba(35, 35, 35, 0.03) 0 64px 64px;
+    transform: translate(0, -4px);
+}
+
+.event-list-image {
+    margin: 0;
+    padding: 0;
+}
+
+.event-list-image img {
+    max-width: 100%;
+    height: 256px;
+}
+
+.event-list-text {
+    padding: 1rem;
+}
+
+.event-list-text h5 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500;
+}
+
+.event-list-text p {
+    font-family: var(--font-sans) !important;
+}
+
+.home-events-cta {
+    text-align: center;
+    margin: 2rem auto;
+}
+
+a.event-cta {
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    margin: auto;
+    padding: 16px 22px;
+    transition: all 0.2s ease;
+}
+
+.event-cta:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    border-radius: 28px;
+    background: rgba(51, 51, 51, 0.3);
+    width: 56px;
+    height: 56px;
+    transition: all 0.3s ease;
+}
+
+.event-cta span {
+    position: relative;
+    font-size: 1.2rem;
+    line-height: 18px;
+    font-family: var(--font-sans);
+    color: var(--primary-grey-dark) !important;
+    font-weight: 500;
+    letter-spacing: 0.25em !important;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.event-cta svg {
+    position: relative;
+    top: 0;
+    margin-left: 10px;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: var(--primary-grey-dark);
+    stroke-width: 2;
+    transform: translateX(-5px);
+    transition: all 0.3s ease;
+}
+
+.event-cta:hover:before {
+    width: 100%;
+    background: rgba(51, 51, 51, 0.3);
+}
+
+.event-cta:hover svg {
+    transform: translateX(0);
+}
+
+.event-cta:active {
+    transform: scale(0.96);
+}
+
+.event-side-box {
+    border: 1px solid #ccc;
+}
+
+.event-name {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.event-name a {
+    font-family: var(--font-main) !important;
+    font-size: 2rem;
+    color: var(--primary-grey-dark);
+    line-height: 0.85;
+}
+
+.event-schedule {
+    border-top: 1px solid #ccc;
+    text-align: center;
+    padding: 1.4rem 0.7rem;
+}
+
+.event-date {
+    font-family: var(--font-serif) !important;
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: var(--primary-red);
+}
+
+.event-day {
+    font-family: var(--font-serif) !important;
+    font-size: 1rem;
+    line-height: 0.8;
+    text-transform: uppercase;
+}
+
+.event-side-cta {
+    text-align: center;
+    margin: 0.6rem auto;
+}
+
+a.event-side-btn {
+    font-family: var(--font-sans) !important;
+}
+
+.event-main-box {
+    border: 1px solid #ccc;
+}
+
+.event-main-text {
+    padding: 1rem;
+}
+
+.event-main-text h4 {
+    font-family: var(--font-main) !important;
+    font-weight: 500;
+}
+
+.event-main-text p {
+    font-family: var(--font-serif) !important;
+    font-size: 1.1rem;
+}
+
+/* Promotions */
+.promotion-hero-wrapper {
+    margin-top: 5rem;
+    padding: auto 3rem;
+}
+
+.promo-hero-logo {
+    width: 256px;
+    height: 100%;
+}
+
+.hero-header {
+    margin: 5rem 0 7rem 0 !important;
+    text-align: center;
+}
+
+.hero-header h1 {
+    display: block;
+    font-family: var(--font-main) !important;
+    font-size: 3.75rem;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 1rem;
+    text-transform: uppercase;
+    color: var(--primary-red) !important;
+}
+
+.hero-text {
+    margin: 5rem 0 3rem 0;
+}
+
+.hero-text h4 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500 !important;
+}
+
+.hero-text p {
+    font-family: var(--font-sans) !important;
+    font-weight: 400;
+}
+
+ul.promotion-list-select > li {
+    margin: 0 .8em;
+    display: inline-block;
+}
+
+.promotion-list-select li > a {
+    font-family: var(--font-sans) !important;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.promo-box {
+    margin: 3rem 0 2rem 0;
+}
+
+.promo-text h3 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500;
+}
+
+.promo-text p {
+    font-family: var(--font-sans) !important;
+}
+
+.promo-nav-box {
+    float: right;
+    margin: 1rem 0;
+}
+
+.promo-nav-box div {
+    display: inline-block !important;
+}
+
+.promo-nav {
+    cursor: pointer;
+}
+
+/* Hightech  */
+.hightech-content .content-header {
+    margin-bottom: 5rem;
+}
+
+.hightech-hero-logo {
+    width: 64px;
+}
+
+.hightech-hero .hero-logo h3 {
+    font-family: var(--font-sans) !important;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: var(--primary-red) !important;
+}
+
+.tech-feat-list {
+    margin: 2rem 0;
+}
+
+.hightech-box {
+    margin: 3rem 0 2rem 0;
+}
+
+.hightech-text h3 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500;
+}
+
+.hightech-text p {
+    font-family: var(--font-sans) !important;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.hightech-text a {
+    font-family: var(--font-sans) !important;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.hightech-text a:hover {
+    text-decoration: underline;
+}
+
+/* Lofts */
+.loft-content-wrapper {
+    margin-bottom: 5rem;
+}
+
+.luxury-content .content-header {
+    margin-bottom: 2.5rem;
+}
+
+.content-details {
+    margin-top: 1.5rem;
+}
+
+.luxury-content .content-details p {
+    font-family: var(--font-sans) !important;
+    font-size: 0.9rem;
+    text-indent: 2.5rem;
+}
+
+.content-info {
+    margin: 3rem 0;
+}
+
+.info-header h3 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+}
+
+.content-info ul {
+    margin: 2rem 0;
+}
+
+.content-info ul>li {
+    margin: 1rem .8em;
+    display: inline-block;
+}
+
+.loft-inclusions li>h2 {
+    font-family: var(--font-serif) !important;
+    font-weight: 500;
+    text-align: center;
+}
+
+.loft-inclusions li>span {
+    font-family: var(--font-sans) !important;
+    text-align: center;
+}
+

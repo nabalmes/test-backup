@@ -1,0 +1,164 @@
+{{define "content"}}
+
+<section id="contact" class="hero-slider home-hero" data-carousel>
+    <div class="carousel-cell" style="background-image: url(../static/2022/img/contact/bg.jpg)">
+        <div class="slide-content">
+            <div class="hero-logo">
+                <a href="./">
+                    <img src="../static/2022/icons/logo-full.svg" alt="Luks Lofts Hotel Logo">
+                </a>
+            </div>
+
+            <div class="hero-headings">
+                <h1 class="hero-heading__title explore-btn">Contact Us</h1>
+                <p class="luks-lead">Let us assist you in booking your most unforgettable stay.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="luks-contact-form">
+    <div class="contact">
+        <div class="contact__card">
+            <div class="contact-form-card">
+                <div class="form-wrapper">
+                    <div id="contact-form-loading" class="hidden">
+                        <div class="spinner-container">
+                            <h2 class="spinner-img"></h2>
+                        </div>
+                    </div>
+
+                    <div class="contact-form-title">
+                        <h1 class="luks-heading">Contact Us</h1>
+                    </div>
+
+                    <div id="contact-form" class="contact-form-content">
+                        <div class="form-group inquiry-form">
+                            <label class="" for="form_firstname">First Name</label>
+                            <input id="form_firstname" type="text" name="firstname" class="form-control"
+                                placeholder="First Name" required="required" data-error="Valid email is required.">
+                            <div class="help-block with-errors"></div>
+
+                            <label class="" for="form_lastname">Last Name</label>
+                            <input id="form_lastname" type="text" name="lastname" class="form-control"
+                                placeholder="Last Name" required="required" data-error="Valid email is required.">
+                            <div class="help-block with-errors"></div>
+
+                            <label class="" for="form_email">Email</label>
+                            <input id="form_email" type="email" name="email" class="form-control"
+                                placeholder="Email Address" required="required" data-error="Valid email is required.">
+                            <div class="help-block with-errors"></div>
+
+                            <label class="" for="form_phone">Phone</label>
+                            <input id="form_phone" type="text" name="phone" class="form-control"
+                                placeholder="Phone Number">
+                            <div class="help-block with-errors"></div>
+
+                            <label for="form_message">Message</label>
+                            <textarea name="message" id="form_message" class="form-control" rows="20"
+                                placeholder="Your message" required="required" data-error="Please leave us a message."
+                                style="min-height: 7.5rem; border-left: none; border-right: none; border-top: none;"></textarea>
+                            <div class="help-block with-errors"></div>
+
+                            <div class="form-cta">
+                                <a id="contact-form-trigger"
+                                    class="lukslofts-btn primary-btn raised-btn rounded-btn">Send</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-message">
+                    <img src="../2019/img/icons/icons8-received.png" alt="">
+
+                    <h1 class="lukslofts-title title-secondary">Message Sent</h1>
+                    <h5 class="lukslofts-hash">Thank you for inquiring us. We will contact you as soon as possible.</h5>
+
+                    <a href="../index.html" class="lukslofts-btn flat-btn"><i class="fa fa-home"></i> Back to Home</a>
+                    <a href="" class="lukslofts-btn flat-btn send-another">Send another <i class="fa fa-send"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="contact__text">
+            <h1 class="luks-heading">Let us assist you in booking your most unforgettable stay.</h1>
+
+            <p class="luks-lead">We are always happy to answer any questions and assist you in every way we can. Please
+                feel free to contact us anytime.</p>
+
+            <ul class="contact-details-list hidden">
+                <li><a href="tel: +63 43 302 1000">+63 43 302 1000</a></li>
+                <li><a href="tel: +1 888 202 1283">+1 888 202 1283</a></li>
+                <li><a href="mailto: info@lukslofts.com">info@lukslofts.com</a></li>
+                <li><a href="mailto: sales@lukslofts.com">sales@lukslofts.com</a></li>
+                <li><a href="https://www.google.com/maps/place/Luks+Lofts+Hotel+%26+Residences/@13.754274,121.068658,15z/data=!4m8!3m7!1s0x0:0xe644afd1797fda07!5m2!4m1!1i2!8m2!3d13.754274!4d121.068658"
+                        target="_blank">LuksLofts Building, Joseling Road, Batangas, 4200 Batangas</a></li>
+            </ul>
+
+            <div class="location-links">
+                <div class="location-links__group">
+                    <div class="location-link__icon">
+                        <svg width="22" height="25" viewBox="0 0 22 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_1563_23354)">
+                                <path
+                                    d="M21.3984 19.0945L18.8484 15.8464C18.3984 15.2559 17.8484 14.9114 17.2484 14.8622C16.5984 14.7638 15.9484 14.9606 15.3484 15.4035L14.5484 15.9941L13.3984 16.8799C13.2484 16.7815 13.0984 16.683 12.9484 16.5846C12.7484 16.4862 12.5984 16.3386 12.4484 16.2401C10.9484 15.0098 9.6484 13.4842 8.5484 11.7126C8.0984 10.9744 7.6484 10.1378 7.3484 9.20273C7.7484 8.90746 8.0984 8.66139 8.4984 8.36612L9.3484 7.72635C10.5484 6.79131 10.7484 5.41336 9.7984 4.23226L8.5484 2.60824C8.3984 2.41139 8.2484 2.26376 8.0984 2.0669C7.7984 1.6732 7.4984 1.32872 7.1984 0.984227C6.2984 -0.147662 4.8984 -0.344513 3.6984 0.541314L2.7484 1.23029L1.5984 2.16533C0.848402 2.70667 0.348402 3.44486 0.148402 4.3799C-0.151598 5.75785 0.0484021 7.1358 0.348402 8.31691C0.898402 10.6791 1.9484 12.9921 3.5484 15.5019C5.4984 18.5039 8.0484 21.0138 11.0984 22.9823C12.2484 23.7204 13.7984 24.5571 15.5984 24.9016C15.8984 24.9508 16.1984 25 16.4984 25C17.4484 25 18.3484 24.6555 19.0984 24.0157C19.3984 23.7204 19.7984 23.4744 20.1484 23.1791L20.8984 22.6378L20.9484 22.5886C21.5484 22.1456 21.8984 21.5551 21.9484 20.9153C22.0484 20.2756 21.8484 19.6358 21.3984 19.0945ZM6.1984 1.77163C6.4984 2.11612 6.7484 2.46061 7.0484 2.85431C7.1984 3.05116 7.3484 3.24801 7.4984 3.39565L8.7484 5.01966C9.2984 5.70864 9.1984 6.29919 8.4984 6.79131L8.1484 7.03738L3.9984 1.82084L4.3984 1.52557C5.0484 1.08265 5.6984 1.13187 6.1984 1.77163ZM18.2984 23.0807C17.5984 23.6712 16.7984 23.8681 15.8484 23.6712C14.2484 23.376 12.8984 22.5886 11.7484 21.8996C8.8484 20.0787 6.4484 17.7165 4.5984 14.8622C3.0484 12.4508 2.0984 10.2854 1.5484 8.07084C1.2984 7.03738 1.0984 5.80706 1.3484 4.67517C1.4984 4.03541 1.7984 3.54328 2.3484 3.14958L3.0484 2.60824L7.1984 7.82478C6.9484 8.02163 6.6984 8.16927 6.4484 8.36612C6.0484 8.66139 5.9484 9.00588 6.0484 9.4488C6.3484 10.5807 6.8984 11.5649 7.3984 12.4508C8.5484 14.3208 9.9484 15.9449 11.5984 17.2736C11.7984 17.4212 12.7484 18.061 12.7984 18.1102C13.2484 18.4055 13.6984 18.3563 14.0484 18.0118L14.7984 17.4212L18.9484 22.5886C18.6984 22.7362 18.4984 22.933 18.2984 23.0807ZM20.1484 21.6535L19.8984 21.8504L15.7484 16.683L16.0484 16.437C16.3484 16.1909 16.6984 16.0925 16.9984 16.1417C17.2984 16.1909 17.5484 16.3386 17.7984 16.683L20.3984 19.9311C20.5484 20.1279 20.7484 20.4724 20.6984 20.8169C20.6984 21.063 20.4984 21.3582 20.1484 21.6535Z"
+                                    fill="#797979" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_1563_23354">
+                                    <rect width="22" height="25" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </div>
+                    <div class="location-link__text">
+                        <div class="location-link">
+                            <a href="tel:+63433021000">+63 43 302 1000</a>
+                        </div>
+                        <div class="location-link">
+                            <a href="tel:+1 888 202 1283">+1 888 202 1283</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="location-links__group">
+                    <div class="location-link__icon">
+                        <svg width="21" height="15" viewBox="0 0 21 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M1.97784 0C0.872576 0 0 0.963855 0 2.10843V12.8313C0 13.9759 0.872576 14.9398 1.97784 14.9398H18.964C20.0693 14.9398 20.9418 13.9759 20.9418 12.8313V2.10843C20.9418 0.963855 20.0693 0 18.964 0H1.97784ZM1.97784 1.0241H18.964C19.1385 1.0241 19.2548 1.08434 19.3712 1.14458L11.169 9.03614C10.7618 9.39759 10.2964 9.39759 9.8892 9.03614L1.57064 1.14458C1.74515 1.08434 1.8615 1.0241 1.97784 1.0241ZM0.98892 1.98795L6.86427 7.59036L1.10526 13.3735C1.04709 13.1928 0.98892 13.012 0.98892 12.8313V2.10843C0.98892 2.10843 0.98892 2.04819 0.98892 1.98795ZM19.9529 1.98795C19.9529 2.04819 19.9529 2.04819 19.9529 2.10843V12.8313C19.9529 13.012 19.8947 13.1928 19.8366 13.3735L14.0776 7.59036L19.9529 1.98795ZM13.4377 8.31325L19.0803 13.9759H19.0222H1.97784L7.6205 8.31325L9.19114 9.81928C9.94737 10.5422 11.0526 10.5422 11.8089 9.81928L13.4377 8.31325Z"
+                                fill="#797979" />
+                        </svg>
+                    </div>
+                    <div class="location-link__text">
+                        <div class="location-link">
+                            <a href="mailto:info@lukslofts.com" target="_blank">info@lukslofts.com</a>
+                        </div>
+                        <div class="location-link">
+                            <a href="mailto:sales@lukslofts.com" target="_blank">sales@lukslofts.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="social-links">
+                <img src="../static/2022/icons/social--fb.svg" alt="">
+                <img src="../static/2022/icons/social--ig.svg" alt="">
+                <img src="../static/2022/icons/social--tw.svg" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="lukslofts-contact">
+    <div class="row section-wrapper" data-aos="fade-up">
+        <div class="col-sm-12 contact-box">
+            <h3 class="contact-box-text">BOOK YOUR UNFORGETTABLE STAY</h3>
+
+            <a href="index.html" class="lukslofts-btn secondary-btn light-sec">BOOK NOW</a>
+        </div>
+    </div>
+</section>
+
+{{end}}
+
+{{define "script"}}
+{{end}}

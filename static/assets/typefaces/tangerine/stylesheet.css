@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Tangerine';
+    src: url('TANGERINE_BOLD.TTF') format("truetype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Tangerine';
+    src: url('TANGERINE_REGULAR.TTF') format("truetype");
+    font-weight: 400;
+}

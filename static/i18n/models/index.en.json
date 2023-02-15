@@ -1,0 +1,12 @@
+{
+  "display_name": "Index",
+  "fields": {
+    "BackgroundImage": {
+      "display_name": "Background Image",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: lukslofts-mysql
+  namespace: websites-staging
+spec:
+  storageClassName: ssd
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 1Gi
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lukslofts-mysql
+  namespace: websites-staging
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lukslofts-mysql
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: lukslofts-mysql
+    spec:
+      containers:
+      - name: lukslofts-mysql
+        image: mysql
+        ports:
+        - containerPort: 1231
+          name: mysql
+        volumeMounts:
+          - mountPath: /var/lib/mysql
+            name: lukslofts-mysql
+        env:
+        - name: MYSQL_ROOT_PASSWORD
+          value: "root password" 
+        - name: MYSQL_DATABASE
+          value: lukslofts-mysql
+        - name: MYSQL_USER
+          value: "lukslofts"
+        - name: MYSQL_PASSWORD
+          value: "my really good password"
+      volumes:
+      - name: lukslofts-mysql
+        persistentVolumeClaim:
+          claimName: lukslofts-mysql
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lukslofts-website
+  namespace: websites-staging
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lukslofts-website
+  template:
+    metadata:
+      labels:
+        app: lukslofts-website
+    spec:
+      containers:
+      - name: lukslofts-website
+        image: registry.integranet.ph/lukslofts/lukslofts-website:latest
+        ports:
+        - containerPort: 1231
+          name: http
+        env:
+        - name: UADMIN_DB_TYPE
+          value: mysql
+        - name: UADMIN_DB_HOST
+          value: lukslofts-mysql
+        - name: UADMIN_DB_NAME
+          value: "lukslofts-mysql"
+        - name: UADMIN_DB_USER
+          value: lukslofts 
+        - name: UADMIN_DB_PASSWORD
+          value: "my really good password"
+      imagePullSecrets:
+      - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: lukslofts-website
+  namespace: websites-staging
+spec:
+  ports:
+    - name: http
+      port: 80
+      targetPort: 1231
+  selector:
+    app: lukslofts-website
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: lukslofts-mysql
+  namespace: websites-staging
+spec:
+  ports:
+    - name: mysql
+      port: 3306
+      targetPort: 3306
+  selector:
+    app: lukslofts-mysql
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: lukslofts-website
+  namespace: websites-staging
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    nginx.ingress.kubernetes.io/proxy-body-size: "0"
+spec:
+  tls:
+  - hosts:
+    - dev.luksloft.com
+    secretName: lukslofts-website
+  rules:
+    - host: dev.luksloft.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: lukslofts-website
+                port:
+                  number: 80
+  ingressClassName: nginx

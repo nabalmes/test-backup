@@ -1,0 +1,17 @@
+.modal-dialog{
+  background: #FFF !important;
+}
+.modal-content{
+  background: rgba(255,255,255,1) !important;
+  border:none !important;
+}
+
+.set-widthfixed100
+{
+  width:100% !important;
+  height: 100% !important;
+}
+
+.card.card-block{
+  background: #000 !important;
+}

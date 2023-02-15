@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Black.otf") format("opentype");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Bold.otf") format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Semibold.otf") format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Medium.otf") format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Book.otf") format("opentype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Light.otf") format("opentype");
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Black\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Bold\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Semibold\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Medium\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Book\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'FreightBigPro';
+    src: url("Freight\ Big\ Pro\ Light\ Italic.otf") format("opentype");
+    font-style: italic;
+    font-weight: 300;
+}
